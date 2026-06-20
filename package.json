@@ -12,7 +12,7 @@
     "bootstrap-icons": "^1.5.0",
     "formik": "^2.2.9",
     "js-convert-case": "^4.1.2",
-    "node-sass": "^6.0.1",
+    "sass": "^1.77.8",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-router-dom": "^5.2.0",
