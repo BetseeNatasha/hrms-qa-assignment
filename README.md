@@ -1,13 +1,3 @@
-# HRMS QA Assignment
-
-## Candidate Details
-
-Name: Betsee Natasha
-
-Role Applied: QA Intern
-
----
-
 ## Assignment Deliverables
 
 ### Documentation
